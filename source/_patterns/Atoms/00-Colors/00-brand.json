@@ -1,0 +1,86 @@
+{
+  "palettePrimary":[
+    {
+      "bgParClasses":"bg-brand-blue text-white rounded p-3 text-center",
+      "txtParClasses":"p-2 text-center",
+      "hexColor":"#293D9B",
+      "colorName":"Primary Blue"
+    },
+    {
+      "bgParClasses":"bg-brand-gray rounded p-3 text-center",
+      "txtParClasses":"p-2 text-center",
+      "hexColor":"#F5F5F5",
+      "colorName":"Primary Gray"
+    }
+  ],
+  "paletteSecondary":[
+    {
+      "bgParClasses":"bg-brand-blue-dark text-white rounded p-3 text-center",
+      "txtParClasses":"p-2 text-center",
+      "hexColor":"#112645",
+      "colorName":"Dark Blue"
+    },
+    {
+      "bgParClasses":"bg-brand-blue-light text-white rounded p-3 text-center",
+      "txtParClasses":"p-2 text-center",
+      "hexColor":"#47C7F4",
+      "colorName":"Light Blue"
+    },
+    {
+      "bgParClasses":"bg-brand-yellow  text-white rounded p-3 text-center",
+      "txtParClasses":"p-2 text-center",
+      "hexColor":"#FCBB23",
+      "colorName":"Yellow"
+    }
+  ],
+    "paletteTertiary":[
+    {
+      "bgParClasses":"bg-primary text-white rounded p-3 text-center",
+      "txtParClasses":"p-2 text-center",
+      "hexColor":"#293D9B",
+      "colorName":"Primary"
+    },
+    {
+      "bgParClasses":"bg-success text-white rounded p-3 text-center",
+      "txtParClasses":"p-2 text-center",
+      "hexColor":"#112645",
+      "colorName":"Success"
+    },
+    {
+      "bgParClasses":"bg-danger text-white rounded p-3 text-center",
+      "txtParClasses":"p-2 text-center",
+      "hexColor":"#47C7F4",
+      "colorName":"Danger"
+    },
+    {
+      "bgParClasses":"bg-info  text-white rounded p-3 text-center",
+      "txtParClasses":"p-2 text-center",
+      "hexColor":"#47C7F4",
+      "colorName":"Info"
+    },
+    {
+      "bgParClasses":"bg-warning  text-white rounded p-3 text-center",
+      "txtParClasses":"p-2 text-center",
+      "hexColor":"#FCBB23",
+      "colorName":"Warning"
+    },
+    {
+      "bgParClasses":"bg-light rounded p-3 text-center",
+      "txtParClasses":"p-2 text-center",
+      "hexColor":"#F5F5F5",
+      "colorName":"Light"
+    },
+    {
+      "bgParClasses":"bg-dark text-white rounded p-3 text-center",
+      "txtParClasses":"p-2 text-center",
+      "hexColor":"#343A40",
+      "colorName":"Dark"
+    },
+    {
+      "bgParClasses":"bg-white rounded p-3 text-center",
+      "txtParClasses":"p-2 text-center",
+      "hexColor":"#FFFFFF",
+      "colorName":"White"
+    }
+  ]
+}

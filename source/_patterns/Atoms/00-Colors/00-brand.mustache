@@ -1,0 +1,70 @@
+<div class="container-fluid">
+  <h2>Brand Color Palett</h2>
+  <hr />
+  <div class="row">
+    {{#palettePrimary}}
+    <div class="col-md">
+      <p class="{{bgParClasses}}">{{{hexColor}}}</p>
+       <p class="{{txtParClasses}}"><strong>{{{colorName}}}</strong></p>
+    </div>
+    {{/palettePrimary}}
+  </div>
+
+  <div class="row">
+    {{#paletteSecondary}}
+    <div class="col-md">
+      <p class="{{bgParClasses}}">{{{hexColor}}}</p>
+       <p class="{{txtParClasses}}"><strong>{{{colorName}}}</strong></p>
+    </div>
+    {{/paletteSecondary}}
+  </div>
+
+  <h2>Utility Color Palett</h2>
+  <hr />
+  <div class="row">
+    {{#paletteTertiary}}
+    <div class="col-lg">
+      <p class="{{bgParClasses}}">{{{hexColor}}}</p>
+       <p class="{{txtParClasses}}"><strong>{{{colorName}}}</strong></p>
+    </div>
+    {{/paletteTertiary}}
+  </div>
+</div>
+<br />
+
+<!-- <div class="container-fluid">
+  <div class="row">
+    <div class="col-md">
+      <h2>Text</h2>
+      <hr />
+      <p class="text-primary">.text-primary</p>
+      <p class="text-secondary">.text-secondary</p>
+      <p class="text-success">.text-success</p>
+      <p class="text-danger">.text-danger</p>
+      <p class="text-warning">.text-warning</p>
+      <p class="text-info">.text-info</p>
+      <p class="text-light bg-dark">.text-light</p>
+      <p class="text-dark">.text-dark</p>
+      <p class="text-body">.text-body</p>
+      <p class="text-muted">.text-muted</p>
+      <p class="text-white bg-dark">.text-white</p>
+      <p class="text-black-50">.text-black-50</p>
+      <p class="text-white-50 bg-dark">.text-white-50</p>
+    </div>
+
+    <div class="col-md">
+      <h2>Background</h2>
+      <hr />
+      <div class="p-3 mb-2 bg-primary text-white">.bg-primary</div>
+      <div class="p-3 mb-2 bg-secondary text-white">.bg-secondary</div>
+      <div class="p-3 mb-2 bg-success text-white">.bg-success</div>
+      <div class="p-3 mb-2 bg-danger text-white">.bg-danger</div>
+      <div class="p-3 mb-2 bg-warning text-dark">.bg-warning</div>
+      <div class="p-3 mb-2 bg-info text-white">.bg-info</div>
+      <div class="p-3 mb-2 bg-light text-dark">.bg-light</div>
+      <div class="p-3 mb-2 bg-dark text-white">.bg-dark</div>
+      <div class="p-3 mb-2 bg-white text-dark">.bg-white</div>
+      <div class="p-3 mb-2 bg-transparent text-dark">.bg-transparent</div>
+    </div>
+  </div>
+</div> -->
